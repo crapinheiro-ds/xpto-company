@@ -1,4 +1,6 @@
 # Bibliotecas
+import sys
+sys.path.append('lib')
 import pandas as pd
 import plotly.express as px
 from haversine import haversine
