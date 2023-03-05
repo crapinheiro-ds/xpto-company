@@ -30,5 +30,8 @@ st.markdown(
         - Indicadores semanais de crescimento dos restaurantes.
     ### Ask for help
     - Linkedin: crapinheiro.ds
+    
+    
+    ##### [Link do projeto no Github](https://github.com/crapinheiro-ds/xpto-company)
     """
 )
