@@ -1,4 +1,6 @@
 # Bibliotecas
+import sys
+sys.path.append('lib')
 import lib_curry_company as lib
 import pandas as pd
 import streamlit as st
